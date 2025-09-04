@@ -1,0 +1,4052 @@
+[
+  {
+    "Problem Name": "Two Sum",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/two-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "3Sum",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/3sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "4Sum",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/4sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Container With Most Water",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/container-with-most-water/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Move Zeroes",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/move-zeroes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Remove Duplicates from Sorted Array",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Product of Array Except Self",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/product-of-array-except-self/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Majority Element",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/majority-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Majority Element II",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/majority-element-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Subarray Sum Equals K",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Continuous Subarray Sum",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/continuous-subarray-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Maximum Subarray (Kadane)",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-subarray/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock II",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock III",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock IV",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock with Cooldown",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Merge Intervals",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-intervals/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Insert Interval",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/insert-interval/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Meeting Rooms",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/meeting-rooms/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "3Sum Closest",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/3sum-closest/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Next Permutation",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/next-permutation/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Spiral Matrix",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/spiral-matrix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Set Matrix Zeroes",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Search in Rotated Sorted Array (and variants)",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find Minimum in Rotated Sorted Array",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Kth Largest Element in an Array",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Sort Colors",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sort-colors/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Valid Sudoku",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-sudoku/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Spiral Matrix II",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/spiral-matrix-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Majority Element (Boyer–Moore variations)",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/majority-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Longest Consecutive Sequence",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Intersection of Two Arrays / II",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Product of Array Except Self",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/product-of-array-except-self/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Maximum Product Subarray",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-product-subarray/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Jump Game",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/jump-game/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Jump Game II",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/jump-game-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Find All Duplicates in an Array",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find All Numbers Disappeared in an Array",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "First Missing Positive",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/first-missing-positive/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Minimum Size Subarray Sum",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Maximum Length of Repeated Subarray",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Longest Increasing Subsequence (array variant)",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "House Robber (array DP variant)",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/house-robber/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Rotate Image",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/rotate-image/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "K-diff Pairs in an Array",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Relative Ranks",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/relative-ranks/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Minimum Window Subsequence",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-window-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Arithmetic Slices",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/arithmetic-slices/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Game of Life",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/game-of-life/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Sort Array By Parity",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sort-array-by-parity/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Wiggle Sort",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/wiggle-sort/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Subarray Product Less Than K",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/subarray-product-less-than-k/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Longest Subarray of 1's After Deleting One Element",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-subarray-of-1-s-after-deleting-one-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Max Sum of Rectangle No Larger Than K (matrix variant)",
+    "Topic": "Arrays & Hashing",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Longest Substring Without Repeating Characters",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Palindromic Substring",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Palindrome Partitioning",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindrome-partitioning/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Palindrome Partitioning II",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Valid Palindrome",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-palindrome/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Valid Anagram",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-anagram/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Group Anagrams",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/group-anagrams/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Longest Common Prefix",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-common-prefix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Implement strStr() (needle in haystack)",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-strstr/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Multiply Strings",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/multiply-strings/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Add Binary",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/add-binary/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Repeating Character Replacement",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Minimum Window Substring",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-window-substring/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Decode Ways",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/decode-ways/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Count and Say",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/count-and-say/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Restore IP Addresses",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/restore-ip-addresses/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Letter Combinations of a Phone Number",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Zigzag Conversion",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/zigzag-conversion/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Simplify Path",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/simplify-path/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Basic Calculator / II / III",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/basic-calculator-ii-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Integer to Roman / Roman to Integer",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/integer-to-roman-roman-to-integer/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Zigzag Conversion",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/zigzag-conversion/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Word Search",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-search/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Word Break / Word Break II",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-break-word-break-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Reverse Words in a String",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Reverse String",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reverse-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Implement Trie (Prefix Tree)",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-trie/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Replace Words",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/replace-words/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Longest Palindromic Subsequence (string DP)",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Rearrange String k Distance Apart",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/rearrange-string-k-distance-apart/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Valid Number",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Count and Say",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/count-and-say/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Evaluate Reverse Polish Notation",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Minimum Insertions to Form a Palindrome",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-insertions-to-form-a-palindrome/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "String to Integer (atoi)",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/string-to-integer/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Number of Matching Subsequences",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-matching-subsequences/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Longest Word in Dictionary through Deleting",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Substring with Concatenation of All Words",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Shortest Palindrome",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/shortest-palindrome/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Palindrome Pairs",
+    "Topic": "Strings",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindrome-pairs/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Two Sum II - Input array is sorted",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "3Sum",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/3sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "3Sum Closest",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/3sum-closest/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Container With Most Water",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/container-with-most-water/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Trapping Rain Water",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/trapping-rain-water/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Remove Nth Node From End of List (two-pointer pattern)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Partition Labels",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/partition-labels/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Minimum Window Substring",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-window-substring/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Longest Substring Without Repeating Characters",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Repeating Character Replacement",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sliding Window Maximum",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-maximum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Subarrays with K Different Integers",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Subarray Product Less Than K",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/subarray-product-less-than-k/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Longest Subarray With Sum at Most K",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-subarray-with-sum-at-most-k/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Find All Anagrams in a String",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Valid Palindrome II (two-pointer)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-palindrome-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Sum of Two Integers (two-pointer variants)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sum-of-two-integers/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Merge Sorted Array (in-place two-pointer)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Remove Element (two-pointer)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Move Zeroes",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/move-zeroes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sort Colors (Dutch National Flag)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sort-colors/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Square Root (binary search two-pointer approaches)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/square-root/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Closest Binary Search Tree Value II (two-pointer for in-order list)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Minimum Size Subarray Sum",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Max Consecutive Ones III",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Nice Substring (window variants)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-nice-substring/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Number of Subarrays with Bounded Maximum",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Partition Array Into Disjoint Intervals",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/partition-array-into-disjoint-intervals/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Valid Mountain Array",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-mountain-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Smallest Subarray with Given Sum (variant)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/smallest-subarray-with-given-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sliding Window Median",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-median/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Longest Subarray After Deleting One Element",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-subarray-after-deleting-one-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Kth Smallest Pair Distance",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-smallest-pair-distance/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Repeating Character Replacement (repeat)",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Substring with Concatenation of All Words",
+    "Topic": "Two Pointers & Sliding Window",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Binary Search (classic)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-search/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Search in Rotated Sorted Array",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Find Peak Element",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-peak-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "First Bad Version",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/first-bad-version/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Median of Two Sorted Arrays",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Search a 2D Matrix",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Find Minimum in Rotated Sorted Array",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Kth Smallest Element in a Sorted Matrix",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Find K Closest Elements",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-k-closest-elements/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Aggressive Cows / Allocate Books variants",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/aggressive-cows-allocate-books-variants/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Split Array Largest Sum",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/split-array-largest-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Capacity To Ship Packages Within D Days",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Ship Within Days (similar)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/ship-within-days/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Heaters",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/heaters/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Maximize Distance to Closest Person",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximize-distance-to-closest-person/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Painter's Partition Problem variants",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/painter-s-partition-problem-variants/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Wood Cut / Cutting Ribbons variants",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/wood-cut-cutting-ribbons-variants/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Find Peak Element (local maxima)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-peak-element/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Longest Increasing Subsequence (binary-search method)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Median of Two Sorted Arrays",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Search Insert Position",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/search-insert-position/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sqrt(x)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sqrt/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Kth Smallest Element in a BST (order-statistics)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find Minimum in Rotated Sorted Array II (with duplicates)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find Rotation Count in Rotated Sorted Array",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-rotation-count-in-rotated-sorted-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Search in a Bitonic Array",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/search-in-a-bitonic-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find Median from Data Stream (heap+bs variants)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Capacity To Ship Packages Within D Days",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find Duplicate Number (tortoise & hare, binary search variants)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-duplicate-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Kth Largest Element in an Array (quickselect)",
+    "Topic": "Sorting & Searching / Binary Search",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Reverse Linked List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reverse-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Merge Two Sorted Lists",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Remove Nth Node From End of List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Linked List Cycle",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/linked-list-cycle/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sort List (Merge Sort on linked list)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sort-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Copy List with Random Pointer",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Intersection of Two Linked Lists",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Add Two Numbers (LL)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/add-two-numbers/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Reverse Nodes in k-Group",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Merge k Sorted Lists",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Split Linked List in Parts",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/split-linked-list-in-parts/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Rotate List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/rotate-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Palindrome Linked List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindrome-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Reorder List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reorder-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Delete Node in a Linked List (given access to node)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Flatten a Multilevel Doubly Linked List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Swap Nodes in Pairs",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Remove Linked List Elements",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-linked-list-elements/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Odd Even Linked List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/odd-even-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Partition List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/partition-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Swap Nodes in Linked List (by value)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/swap-nodes-in-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Binary Tree to Doubly Linked List (inorder linked list)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-to-doubly-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Convert Sorted List to BST",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/convert-sorted-list-to-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "LRU Cache (linked list usage)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/lru-cache/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Merge Two Sorted Linked Lists (recursively)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-two-sorted-linked-lists/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Flatten Binary Tree to Linked List",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Add Two Numbers II (lists in forward order)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/add-two-numbers-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Copy List with Random Pointer (alternate)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Design HashMap (linked-list chains)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-hashmap/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Implement Queue using Stacks (linked-list flavor)",
+    "Topic": "Linked List",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Valid Parentheses",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-parentheses/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Min Stack",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/min-stack/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Evaluate Reverse Polish Notation",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Largest Rectangle in Histogram",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Trapping Rain Water (monotonic stack)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/trapping-rain-water/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sliding Window Maximum (deque)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-maximum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Daily Temperatures",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/daily-temperatures/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Min Stack (duplicate)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/min-stack/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Implement Queue using Stacks",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Implement Stack using Queues",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Basic Calculator II / III",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/basic-calculator-ii-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Next Greater Element I/II",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/next-greater-element-i-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Remove K Digits (stack greedy)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-k-digits/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Simplify Path (stack)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/simplify-path/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Asteroid Collision",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/asteroid-collision/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Number of Islands (stack/dfs variants)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-islands/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Valid Parenthesis String (with wildcard)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Score of Parentheses",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/score-of-parentheses/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Largest Rectangle in Histogram (repeat)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Shortest Subarray with Sum at Least K (deque)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Sliding Window Maximum (repeat)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-maximum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Design Circular Queue",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-circular-queue/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Design Circular Deque",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-circular-deque/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Find the celebrity (queue usage)",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-the-celebrity/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Implement Stack with getMin",
+    "Topic": "Stack & Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-stack-with-getmin/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Binary Tree Inorder Traversal",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Binary Tree Preorder Traversal",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Binary Tree Postorder Traversal",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Binary Tree Level Order Traversal",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Maximum Depth of Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Minimum Depth of Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Symmetric Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/symmetric-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Same Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/same-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Path Sum / Path Sum II",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/path-sum-path-sum-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Sum Root to Leaf Numbers",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Binary Tree Zigzag Level Order Traversal",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Serialize and Deserialize Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Construct Binary Tree from Preorder and Inorder",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Construct Binary Tree from Inorder and Postorder",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Convert Sorted Array to BST",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/convert-sorted-array-to-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Convert Sorted List to BST",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/convert-sorted-list-to-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Balanced Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/balanced-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Lowest Common Ancestor of a Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Kth Smallest Element in a BST",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Validate Binary Search Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Binary Tree Maximum Path Sum",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Populating Next Right Pointers in Each Node",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Flatten Binary Tree to Linked List",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Path Sum III",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/path-sum-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Binary Tree Right Side View",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Count Univalue Subtrees",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/count-univalue-subtrees/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Recover Binary Search Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/recover-binary-search-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Binary Tree Cameras",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-cameras/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Closest Binary Search Tree Value",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/closest-binary-search-tree-value/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Inorder Successor in BST",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/inorder-successor-in-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Binary Tree Vertical Order Traversal",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Binary Tree Level Order Traversal II",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Average of Levels in Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "House Robber III (tree DP)",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/house-robber-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Diameter of Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Sum of Left Leaves",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sum-of-left-leaves/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Binary Search Tree Iterator",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Unique Binary Search Trees / II",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Construct Binary Tree from Level Order",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/construct-binary-tree-from-level-order/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Kth Largest Element in a Stream (heap+tree variants)",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "All Nodes Distance K in Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Binary Tree Pruning",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-pruning/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Maximum Width of Binary Tree",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Binary Tree Tilt",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/binary-tree-tilt/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Serialize and Deserialize BST",
+    "Topic": "Trees — Binary Tree & BST",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Kth Largest Element in an Array",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Merge k Sorted Lists",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Top K Frequent Elements",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Find Median from Data Stream",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sliding Window Median",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-median/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Reorganize String (using heap)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reorganize-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Task Scheduler",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/task-scheduler/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "K Closest Points to Origin",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Smallest Range Covering K Lists",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/smallest-range-covering-k-lists/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Super Ugly Number",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/super-ugly-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Wiggle Sort II (heap variant)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/wiggle-sort-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Kth Smallest Element in a Sorted Matrix (heap method)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Find K Pairs with Smallest Sums",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Connect Sticks",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/connect-sticks/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Maximum Average Subarray II (binary search + heap variants)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-average-subarray-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Merge Stones",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/merge-stones/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Skyline Problem (heap sweep line)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/skyline-problem/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Cheapest Flights Within K Stops (heap dijkstra)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Frequency Stack (max-heap variant)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/frequency-stack/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Sliding Window Median (repeat)",
+    "Topic": "Heaps / Priority Queue",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-median/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Number of Islands",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-islands/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Clone Graph",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/clone-graph/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Course Schedule I & II",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/course-schedule-i-and-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Rotten Oranges",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/rotten-oranges/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Surrounded Regions",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/surrounded-regions/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Pacific Atlantic Water Flow",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Word Ladder / Word Ladder II",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-ladder-word-ladder-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Word Ladder II",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-ladder-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Number of Connected Components in an Undirected Graph",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Graph Valid Tree",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/graph-valid-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Redundant Connection",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/redundant-connection/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Redundant Connection II",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/redundant-connection-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Min Cost to Connect All Points",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Network Delay Time",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/network-delay-time/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Cheapest Flights Within K Stops",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Evaluate Division",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/evaluate-division/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Alien Dictionary (topological sorting)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/alien-dictionary/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Minimum Height Trees",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-height-trees/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Sequence Reconstruction",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sequence-reconstruction/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Critical Connections in a Network (bridges)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Find the Town Judge",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/find-the-town-judge/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Friend Circles / Number of Provinces",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/friend-circles-number-of-provinces/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Bipartite Graph check",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/bipartite-graph-check/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Course Schedule (directed cycle detection)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/course-schedule/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Shortest Path in Binary Matrix",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Knight Shortest Path (BFS on grid)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/knight-shortest-path/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Sliding Puzzle",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-puzzle/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "K Similar Strings (graph BFS)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/k-similar-strings/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Sliding Window on Graphs (various)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sliding-window-on-graphs/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Dijkstra practical problems (various: 743, 1631)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/dijkstra-practical-problems/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Bellman-Ford practice problems",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/bellman-ford-practice-problems/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Kosaraju / SCC problems",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kosaraju-scc-problems/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Tarjan SCC / articulation points problems",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/tarjan-scc-articulation-points-problems/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Minimum Spanning Tree — Kruskal / Prim problems",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-spanning-tree-kruskal-prim-problems/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Word Squares (DFS graph-like)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-squares/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Cheapest Flights (repeated)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/cheapest-flights/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Number of Ways to Reconstruct a Tree",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Path With Maximum Probability",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/path-with-maximum-probability/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Shortest Path With Alternating Colors",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Reconstruct Itinerary",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reconstruct-itinerary/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Bus Routes (BFS on stops graph)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/bus-routes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Course Schedule III (scheduling with priority queue)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/course-schedule-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Most Stones Removed with Same Row or Column (union-find)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Making A Large Island (union-find + graph)",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/making-a-large-island/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Accessible Nodes in a Graph",
+    "Topic": "Graphs",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/accessible-nodes-in-a-graph/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Climbing Stairs",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/climbing-stairs/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "House Robber",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/house-robber/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "House Robber II",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/house-robber-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "House Robber III (tree DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/house-robber-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Coin Change",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/coin-change/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Coin Change II",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/coin-change-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Longest Increasing Subsequence",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Longest Common Subsequence",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-common-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Longest Palindromic Subsequence",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Decode Ways",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/decode-ways/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Unique Paths",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/unique-paths/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Unique Paths II",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/unique-paths-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Minimum Path Sum",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-path-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Maximum Subarray (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-subarray/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Partition Equal Subset Sum",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Word Break (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-break/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Regular Expression Matching (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/regular-expression-matching/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Interleaving String",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/interleaving-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock with Cooldown",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Burst Balloons (interval DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/burst-balloons/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Scramble String (interval DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/scramble-string/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Palindrome Partitioning II (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Edit Distance",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/edit-distance/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Maximum Product Subarray (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-product-subarray/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Target Sum",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/target-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Dungeon Game (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/dungeon-game/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Cherry Pickup (hard DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/cherry-pickup/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Paint House / II / III",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/paint-house-ii-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Decode Ways II",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/decode-ways-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Minimum Insertions to Form a Palindrome",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-insertions-to-form-a-palindrome/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Longest Valid Parentheses (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Regular Expression Matching (repeat)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/regular-expression-matching/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Predict the Winner (game DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/predict-the-winner/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Stone Game series",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/stone-game-series/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Minimum Cost to Merge Stones",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-cost-to-merge-stones/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Maximum Number of Events That Can Be Attended",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Largest Divisible Subset (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/largest-divisible-subset/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Russian Doll Envelopes (DP + sorting)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/russian-doll-envelopes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Count Palindromic Substrings",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/count-palindromic-substrings/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Distinct Subsequences",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/distinct-subsequences/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Maximum Length of Repeated Subarray",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Weighted Job Scheduling (DP on intervals)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/weighted-job-scheduling/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Maximum Profit in Job Scheduling",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Palindromic Partitioning",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindromic-partitioning/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Word Wrap (text justification variants)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-wrap/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Arithmetic Subsequence",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-arithmetic-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Best Time to Buy and Sell Stock IV (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Remove Boxes (interval DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/remove-boxes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Stone Game II/III (game theory DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/stone-game-ii-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Decode Ways (repeat)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/decode-ways/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Minimum Cost to Cut a Stick (interval DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Optimal Binary Search Tree (theory)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/optimal-binary-search-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Minimum Falling Path Sum",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-falling-path-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Matrix Chain Multiplication (classic DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/matrix-chain-multiplication/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Edit Distance (repeat)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/edit-distance/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Maximum Sum Rectangle (2D DP variants)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/maximum-sum-rectangle/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Count Number of Ways to Paint N × 3 Board (DP)",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/count-number-of-ways-to-paint-n-3-board/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Number of Longest Increasing Subsequence",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Longest Increasing Path in a Matrix",
+    "Topic": "Dynamic Programming",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Jump Game (greedy)",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/jump-game/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Gas Station",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/gas-station/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Candy",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/candy/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Assign Cookies",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/assign-cookies/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Queue Reconstruction by Height",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/queue-reconstruction-by-height/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Minimum Number of Arrows to Burst Balloons",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Non-overlapping Intervals",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Partition Labels",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/partition-labels/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Car Fleet",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/car-fleet/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Lemonade Change",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/lemonade-change/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Meeting Rooms II",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/meeting-rooms-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Task Scheduler (greedy heap mix)",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/task-scheduler/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Minimum Number of Refueling Stops",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Split Array into Consecutive Subsequences",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/split-array-into-consecutive-subsequences/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Largest Number (string sort greedy)",
+    "Topic": "Greedy",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/largest-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Subsets",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/subsets/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Subsets II",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/subsets-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Permutations",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/permutations/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Permutations II",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/permutations-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Combination Sum",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/combination-sum/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Combination Sum II",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/combination-sum-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "N-Queens",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/n-queens/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Sudoku Solver",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sudoku-solver/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Word Search",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-search/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Restore IP Addresses",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/restore-ip-addresses/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Generate Parentheses",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/generate-parentheses/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Palindrome Partitioning (backtracking)",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/palindrome-partitioning/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Letter Combinations of a Phone Number (DFS)",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Word Squares",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/word-squares/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Kth Permutation Sequence",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/kth-permutation-sequence/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Expression Add Operators",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/expression-add-operators/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Repeated DNA Sequences (DFS variants)",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/repeated-dna-sequences/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Restore The Array (DFS+DP mix)",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/restore-the-array/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Gray Code",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/gray-code/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Beautiful Arrangement",
+    "Topic": "Backtracking & Recursion",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/beautiful-arrangement/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Number of Islands (union-find variants)",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-islands/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Redundant Connection",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/redundant-connection/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Redundant Connection II",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/redundant-connection-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Accounts Merge",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/accounts-merge/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Graph Valid Tree",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/graph-valid-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Minimum Spanning Tree (Kruskal/Prim practice)",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/minimum-spanning-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Connecting Cities With Minimum Cost",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Sequence Reconstruction (topo)",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/sequence-reconstruction/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Course Schedule III (scheduling with PQ)",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/course-schedule-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Most Stones Removed with Same Row or Column",
+    "Topic": "Union-Find, MST, Topological",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Single Number",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/single-number/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Single Number II",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/single-number-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Single Number III",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/single-number-iii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Reverse Bits",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/reverse-bits/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Number of 1 Bits",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/number-of-1-bits/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Pow(x, n)",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/pow/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Hamming Distance",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/hamming-distance/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Count Primes",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/count-primes/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Ugly Number / II",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/ugly-number-ii/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Excel Sheet Column Number / Title",
+    "Topic": "Math & Bit Manipulation",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/excel-sheet-column-number-title/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "LRU Cache (design)",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/lru-cache/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "LFU Cache (design)",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/lfu-cache/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Adobe,Oracle,Samsung"
+  },
+  {
+    "Problem Name": "Design Twitter",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-twitter/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Design Hit Counter",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-hit-counter/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Serialize and Deserialize BST / Tree",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/serialize-and-deserialize-bst-tree/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Google,Amazon,Meta"
+  },
+  {
+    "Problem Name": "Peek Iterator / Iterator Design",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/peek-iterator-iterator-design/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Medium",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Implement Trie (design)",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/implement-trie/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "Microsoft,Uber,Apple"
+  },
+  {
+    "Problem Name": "Design File System",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-file-system/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Design Parking System",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/design-parking-system/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Easy",
+    "companies": "LinkedIn,Goldman Sachs,Flipkart"
+  },
+  {
+    "Problem Name": "Rate Limiter variants",
+    "Topic": "Misc & Design",
+    "LeetCode Link (auto-generated)": "https://leetcode.com/problems/rate-limiter-variants/",
+    "Difficulty": "",
+    "FAANG Tags": "",
+    "difficulty": "Hard",
+    "companies": "Microsoft,Uber,Apple"
+  }
+]
