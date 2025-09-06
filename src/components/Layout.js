@@ -21,7 +21,7 @@ function Layout({ children }) {
           className="text-xl font-bold cursor-pointer text-purple-300 hover:text-purple-200 transition-colors"
           onClick={() => navigate("/")}
         >
-          FAANG DSA Tracker
+          FAANG 450
         </h1>
         <form onSubmit={handleSearch} className="flex gap-2 flex-1 md:ml-6">
           <input
