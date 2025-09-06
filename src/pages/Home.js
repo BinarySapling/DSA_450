@@ -22,7 +22,7 @@ function Home() {
   return (
     <div className="min-h-screen bg-black text-white">
       <h1 className="text-4xl font-bold text-center text-purple-400 mb-10 drop-shadow-lg">
-        🚀 FAANG DSA Tracker
+        🚀 FAANG 450
       </h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
